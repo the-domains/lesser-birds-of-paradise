@@ -1,0 +1,14 @@
+layout_spectrum: 0.2526406
+typography_spectrum: 0.8770848
+color:
+  lightness: 0.6238393
+  brandStrength: 0.5084853
+  saturation: 0.08876582
+  rhythmicContrast: 0.4568591
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Lesser Birds of Paradise
